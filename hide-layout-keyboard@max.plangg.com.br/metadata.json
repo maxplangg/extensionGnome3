@@ -1,0 +1,11 @@
+{
+  "description": "Show or hide the keyboard layout on the status bar", 
+  "gettext-domain": "hide-layout-keyboard", 
+  "name": "hide-layout-keyboard",   
+  "shell-version": [
+    "3.10"
+  ], 
+  "url": "https://github.com/maxplangg/gnome-shell-extension-hide-layout-keyboard", 
+  "uuid": "hide-layout-keyboard@max.plangg.com.br", 
+  "version": 1
+}
